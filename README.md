@@ -30,5 +30,10 @@ yarn run lint
 yarn run test:unit
 ```
 
+### Start storybook site
+```
+yarn storybook
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
